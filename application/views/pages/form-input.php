@@ -40,11 +40,11 @@
                     </div>
                     <div class="form-floating mb-3">
                         <textarea class='form form-control number required' type="text" name="no_hp" data-bs-toggle="autosize"></textarea>
-                        <label>No. Handphone</label>
+                        <label>No Handphone</label>
                     </div>
                     <div class="form-floating mb-3">
                         <textarea class='form form-control number required' type="text" name="no_wa" data-bs-toggle="autosize"></textarea>
-                        <label>No. WhatsApp</label>
+                        <label>No WhatsApp</label>
                     </div>
                     <div class="form-floating mb-3">
                         <input class='form form-control required' type="text" name="t4_lahir">
